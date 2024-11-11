@@ -1,0 +1,33 @@
+{
+    "name": "apps-cli",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "npx tsx ./src/app.ts",
+        "dev": "nodemon -e ts --exec npm start"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^1.6.8",
+        "jsonwebtoken": "^9.0.2",
+        "koa-body": "^6.0.1",
+        "koa-session": "^6.4.0",
+        "mongoose": "^8.3.1",
+        "pigger": "^1.7.3",
+        "redis": "^4.6.13",
+        "xlsx": "^0.18.5"
+    },
+    "devDependencies": {
+        "@types/koa": "^2.15.0",
+        "@types/koa-session": "^6.4.5",
+        "@types/mongoose": "^5.11.97",
+        "nodemon": "^3.1.0",
+        "tsx": "^4.7.2",
+        "typescript": "^5.4.4"
+    }
+}

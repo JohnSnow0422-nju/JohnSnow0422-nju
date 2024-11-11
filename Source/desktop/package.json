@@ -1,0 +1,28 @@
+{
+    "main": "main.js",
+    "name": "model-runner",
+    "version": "1.2.0",
+    "devDependencies": {
+        "cross-env": "^7.0.3",
+        "electron": "^30.0.0",
+        "electron-builder": "^24.13.3"
+    },
+    "scripts": {
+        "dev": "cross-env  NODE_ENV=development electron .",
+        "build": "electron-builder"
+    },
+    "build": {
+        "productName": "墨斗",
+        "appId": "model-runner",
+        "mac": {
+            "icon": "./logo/logo.png"
+        },
+        "win": {
+            "icon": "./logo/logo.png"
+        }
+    },
+    "dependencies": {
+        "axios": "^1.6.8",
+        "electron-log": "^5.1.2"
+    }
+}
