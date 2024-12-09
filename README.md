@@ -5,7 +5,7 @@
 - 📫 How to reach me: E-mail zhuyong0422@gmail.com / 522022140162@smail.nju.edu.cn
 - 😄 Pronouns: John(he)
 - ⚡ Let's become interesting with AI.
-
+- ✨ The software using tutorial: https://youtu.be/1hanVRwA-Bg
 <!---
 JohnSnow0422-nju/JohnSnow0422-nju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
