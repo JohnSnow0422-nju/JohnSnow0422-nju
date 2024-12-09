@@ -5,7 +5,7 @@
 - 📫 How to reach me: E-mail zhuyong0422@gmail.com / 522022140162@smail.nju.edu.cn
 - 😄 Pronouns: John(he)
 - ⚡ Let's become interesting with AI.
-- 🏆 This is the software's source code. It integrates several models into one platform, facilitating some data analysis tasks like topic modeling and cleaning text data. It also supports the visualization functions, like Line Chart, Radar Chart, Sunburst chart, Heatmap, etc.
+- 🏆 This is the software's source code. It integrates several models into one platform, facilitating some data analysis tasks like topic modeling and cleaning text data. It also supports the visualization functions, like Line Chart, Radar Chart, Sunburst chart, Heatmap, etc. GPT is introducted to achieve autonomatic analysis and output the content.
 - ✨ The software using tutorial: https://youtu.be/1hanVRwA-Bg
 <!---
 JohnSnow0422-nju/JohnSnow0422-nju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
