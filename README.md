@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JohnSnow0422-njuMy personal website: [https://zhuyong.io/](https://zhuyong.io/)
+- 👋 Hi, I’m JohnSnow. My personal website: [https://zhuyong.io/](https://zhuyong.io/)
 - 👀 I’m interested in 1)Computational Social Science, 2) Data-driven and AI-agent Practice in Think Tank, 3)NLP (especially Policy Texts and Literatures), 4)Information Extraction.
 - 🌱 I’m currently learning how to work and live with AI appropriately.
 - 💞️ I’m looking to collaborate on social experiments about human-AI-interaction.
