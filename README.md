@@ -1,5 +1,5 @@
 - 👋 Hi, I’m JohnSnow. My personal website: [https://zhuyong.io/](https://zhuyong.io/)
-- 👀 I’m interested in 1)Computational Social Science, 2) Data-driven and AI-agent Practice, 3)NLP (especially Policy Texts and Literatures), 4)Information Extraction, 5) Human-AI-Interaction
+- 👀 I’m interested in 1)Computational Social Science, 2) Data-driven and AI-agent Practice, 3)NLP (especially Policy Texts and Literatures), 4)Information Extraction, 5) Human-AI-Interaction.
 - 🌱 I’m currently learning how to work and live with AI appropriately.
 - 💞️ I’m looking to collaborate on social experiments about human-AI-interaction.
 - 📫 How to reach me: E-mail : yong.zhu.2@student.unimelb.edu.au
